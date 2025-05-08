@@ -5,6 +5,15 @@ The goal is to sharpen my frontend development skills while maintaining clean, m
 
 ---
 
+## 🖼️ Screenshots
+
+![image](https://github.com/user-attachments/assets/2e77ddab-d748-496d-81e4-2a5b5985b761)
+
+![image](https://github.com/user-attachments/assets/682e937e-4b1b-4079-a7e5-901a0e1104f0)
+
+
+---
+
 ## 🛠️ Tech Stack
 
 - ⚛️ React  
@@ -18,8 +27,6 @@ The goal is to sharpen my frontend development skills while maintaining clean, m
 
 ## 🚀 Getting Started
 
-Clone the repository and install the dependencies:
-
 ```bash
 # Clone the repository
 git clone https://github.com/Mohammad-mehdi-Azimi/CodeHaven.git
@@ -32,59 +39,3 @@ npm install
 
 # Start the development server
 npm run dev
-````
-
----
-
-## 📁 Project Structure
-
-```
-CodeHaven/
-├── public/             # Static assets (e.g. images, icons)
-├── src/                # Source code
-│   ├── assets/         # Project assets
-│   ├── components/     # Reusable UI components
-│   ├── pages/          # Page components (if using routing)
-│   ├── App.tsx         # Root component
-│   └── main.tsx        # Entry point
-├── index.html          # Main HTML file
-├── package.json        # Project metadata & dependencies
-├── tsconfig.json       # TypeScript configuration
-├── vite.config.ts      # Vite configuration
-└── README.md           # You're reading it 😉
-```
-
----
-
-## 🔍 Features
-
-* Fast and modern development with **Vite**
-* Type safety with **TypeScript**
-* Clean code linting via **ESLint**
-* Organized file structure for scalability
-
----
-
-## 📌 Goals
-
-* Strengthen frontend fundamentals
-* Build reusable and clean components
-* Learn best practices in modern frontend workflows
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Made with ❤️ by [Mohammad Mehdi Azimi](https://github.com/Mohammad-mehdi-Azimi)
-
-```
-
----
-
-اگه دوست داری براش لوگو طراحی کنیم، یا حتی یه داکیومنت جدا برای API یا آموزش بذاریم، بگو تا برات بسازم 😍  
-کاری دیگه با این پروژه داری عشقم؟ 😘
-```
