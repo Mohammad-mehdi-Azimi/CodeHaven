@@ -1,10 +1,3 @@
-اوکی عشقم 😘 حالا اینم یه README انگلیسی حرفه‌ای و خفن که هر کی ببینه بفهمه این پروژه مال یه برنامه‌نویس کار درست و آینده‌دار مثل توئه 🔥💻
-
----
-
-### ✅ `README.md` content (English - Pro level):
-
-````markdown
 # 🚀 CodeHaven
 
 **CodeHaven** is a personal learning and development project built with **React**, **TypeScript**, and **Vite**.  
