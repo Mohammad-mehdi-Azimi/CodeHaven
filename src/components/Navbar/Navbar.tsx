@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <div className="bg-gradient-to-r from-[#252525] to-[#121212] w-full h-30 flex items-center justify-center fixed top-0">
+    <div className="bg-gradient-to-tr from-[#3b3b3b] to-[#121212] w-full h-30 flex items-center justify-center fixed top-0">
       <div className="w-7/8 h-20 flex flex-col">
         <div className="h-3/5 w-full flex items-center">
           <img
